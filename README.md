@@ -12,7 +12,7 @@ It is still very, very basic but it runs.
 #supported trackers
 So far, U4B, Traquito and Qrplabs trackers are supported unter 'traquito' name. Change last entry in settings.php; 'tracker_type' => 'traquito' or 'tracker_type' => 'zachtek1'.
 Note that for example Jetpack board has firmware qrplabs. ZachTek is just zachtek1. 
-So far, I can't find any ICT tracker in use. So, the script is not yet optimized to ICT tracker.
+So far, I can't find any ICT tracker in use. So, the script is not yet optimized for ICT tracker.
 
 # separate database for each balloon
 Just set one or more balloons, there will be two .csv files. For example; 9a4ge-11_rawlog.csv and 9a4ge-11_spotslog.csv .
