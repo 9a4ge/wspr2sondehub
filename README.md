@@ -23,7 +23,7 @@ Feel free to improve and use this program.
 # php
 You can find many webpages on how to install PHP on Windows and Unix.
 
-Be sure that in your phpi.ini file, in the [curl] section, curl.cainfo points to the cacert.pem file that is a part of this repository.
+Be sure that in your php.ini file, in the [curl] section, curl.cainfo points to the cacert.pem file that is a part of this repository.
 Windows example:
 curl.cainfo ="C:\php\cacert.pem" 
 
@@ -33,7 +33,7 @@ extension=curl
 
 # settings.php
 Edit your callsing for uploader_call, you may add more description, for example: "9A4GE-RPi 4".
-There are two balloons as an example, change it to your need, or add more balloons, just pay attention
+There are three balloons as an example, change it to your need, or add more balloons, just pay attention
 to the format of the script. 
 
 
