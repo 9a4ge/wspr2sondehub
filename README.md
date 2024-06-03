@@ -10,7 +10,7 @@ wspr2sondehub is a simple program written in PHP to scrape the wspr database eve
 It is still very, very basic but it runs.
 
 #supported trackers
-So far, U4B, Traquito and Qrplabs trackers are supported unter 'traquito' name. Change last entry in settings.pho; 'tracker_type' => 'traquito' or 'tracker_type' => 'zachtek1'.
+So far, U4B, Traquito and Qrplabs trackers are supported unter 'traquito' name. Change last entry in settings.php; 'tracker_type' => 'traquito' or 'tracker_type' => 'zachtek1'.
 Note that for example Jetpack board has firmware qrplabs. ZachTek is just zachtek1. 
 So far, I can't find any ICT tracker in use. So, the script is not yet optimized to ICT tracker.
 
